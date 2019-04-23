@@ -26,6 +26,16 @@ body{
   min-height: 100vh;
 }
 
+.circle{
+  width: 16.666vw;
+  height: 16.666vw;
+  position: absolute;
+  background-color: rgba(255,202,255,0.22);
+  border-radius: 50%;
+  top: -0.5vw;
+  right: 2.793vw;
+}
+
 .logo{
   width: 25.046vw;
   height: 5.214vw;
